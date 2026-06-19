@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mundial 2026</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<h1>Simulador Mundial FIFA 2026</h1>
+
+<div class="contenedor">
+
+    {% for grupo, equipos in grupos.items() %}
+
+    <div class="grupo">
+
+        <h2>{{ grupo }}</h2>
+
+        <table>
+
+            <tr>
+                <th>Equipo</th>
+                <th>PTS</th>
+                <th>PJ</th>
+                <th>DG</th>
+            </tr>
+
+            {% for equipo in equipos %}
+
+            <tr>
+                <td>{{ equipo.nombre }}</td>
+                <td>{{ equipo.pts }}</td>
+                <td>{{ equipo.pj }}</td>
+                <td>{{ equipo.dg }}</td>
+            </tr>
+
+            {% endfor %}
+
+        </table>
+
+    </div>
+
+    {% endfor %}
+
+</div>
+
+</body>
+</html>

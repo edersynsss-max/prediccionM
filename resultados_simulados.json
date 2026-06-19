@@ -1,0 +1,730 @@
+[
+    {
+        "local": "Mexico",
+        "visitante": "South Africa",
+        "goles_local": 2,
+        "goles_visitante": 0,
+        "real": true
+    },
+    {
+        "local": "South Korea",
+        "visitante": "Czechia",
+        "goles_local": 2,
+        "goles_visitante": 1,
+        "real": true
+    },
+    {
+        "local": "Canada",
+        "visitante": "Bosnia-Herzegovina",
+        "goles_local": 1,
+        "goles_visitante": 1,
+        "real": true
+    },
+    {
+        "local": "United States",
+        "visitante": "Paraguay",
+        "goles_local": 4,
+        "goles_visitante": 1,
+        "real": true
+    },
+    {
+        "local": "Qatar",
+        "visitante": "Switzerland",
+        "goles_local": 1,
+        "goles_visitante": 1,
+        "real": true
+    },
+    {
+        "local": "Brazil",
+        "visitante": "Morocco",
+        "goles_local": 1,
+        "goles_visitante": 1,
+        "real": true
+    },
+    {
+        "local": "Haiti",
+        "visitante": "Scotland",
+        "goles_local": 0,
+        "goles_visitante": 1,
+        "real": true
+    },
+    {
+        "local": "Australia",
+        "visitante": "Turkey",
+        "goles_local": 2,
+        "goles_visitante": 0,
+        "real": true
+    },
+    {
+        "local": "Germany",
+        "visitante": "Curaçao",
+        "goles_local": 7,
+        "goles_visitante": 1,
+        "real": true
+    },
+    {
+        "local": "Netherlands",
+        "visitante": "Japan",
+        "goles_local": 2,
+        "goles_visitante": 2,
+        "real": true
+    },
+    {
+        "local": "Ivory Coast",
+        "visitante": "Ecuador",
+        "goles_local": 1,
+        "goles_visitante": 0,
+        "real": true
+    },
+    {
+        "local": "Sweden",
+        "visitante": "Tunisia",
+        "goles_local": 5,
+        "goles_visitante": 1,
+        "real": true
+    },
+    {
+        "local": "Spain",
+        "visitante": "Cape Verde Islands",
+        "goles_local": 0,
+        "goles_visitante": 0,
+        "real": true
+    },
+    {
+        "local": "Belgium",
+        "visitante": "Egypt",
+        "goles_local": 1,
+        "goles_visitante": 1,
+        "real": true
+    },
+    {
+        "local": "Saudi Arabia",
+        "visitante": "Uruguay",
+        "goles_local": 1,
+        "goles_visitante": 1,
+        "real": true
+    },
+    {
+        "local": "Iran",
+        "visitante": "New Zealand",
+        "goles_local": 2,
+        "goles_visitante": 2,
+        "real": true
+    },
+    {
+        "local": "France",
+        "visitante": "Senegal",
+        "goles_local": 3,
+        "goles_visitante": 1,
+        "real": true
+    },
+    {
+        "local": "Iraq",
+        "visitante": "Norway",
+        "goles_local": 1,
+        "goles_visitante": 4,
+        "real": true
+    },
+    {
+        "local": "Argentina",
+        "visitante": "Algeria",
+        "goles_local": 2,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "Austria",
+        "visitante": "Jordan",
+        "goles_local": 3,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": "Portugal",
+        "visitante": "Congo DR",
+        "goles_local": 4,
+        "goles_visitante": 0,
+        "real": false
+    },
+    {
+        "local": "England",
+        "visitante": "Croatia",
+        "goles_local": 0,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": "Ghana",
+        "visitante": "Panama",
+        "goles_local": 2,
+        "goles_visitante": 3,
+        "real": false
+    },
+    {
+        "local": "Uzbekistan",
+        "visitante": "Colombia",
+        "goles_local": 1,
+        "goles_visitante": 4,
+        "real": false
+    },
+    {
+        "local": "Czechia",
+        "visitante": "South Africa",
+        "goles_local": 2,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": "Switzerland",
+        "visitante": "Bosnia-Herzegovina",
+        "goles_local": 2,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": "Canada",
+        "visitante": "Qatar",
+        "goles_local": 2,
+        "goles_visitante": 0,
+        "real": false
+    },
+    {
+        "local": "Mexico",
+        "visitante": "South Korea",
+        "goles_local": 0,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": "United States",
+        "visitante": "Australia",
+        "goles_local": 0,
+        "goles_visitante": 0,
+        "real": false
+    },
+    {
+        "local": "Scotland",
+        "visitante": "Morocco",
+        "goles_local": 1,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "Brazil",
+        "visitante": "Haiti",
+        "goles_local": 3,
+        "goles_visitante": 0,
+        "real": false
+    },
+    {
+        "local": "Turkey",
+        "visitante": "Paraguay",
+        "goles_local": 2,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "Netherlands",
+        "visitante": "Sweden",
+        "goles_local": 3,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "Germany",
+        "visitante": "Ivory Coast",
+        "goles_local": 1,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "Ecuador",
+        "visitante": "Curaçao",
+        "goles_local": 3,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "Tunisia",
+        "visitante": "Japan",
+        "goles_local": 1,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": "Spain",
+        "visitante": "Saudi Arabia",
+        "goles_local": 4,
+        "goles_visitante": 0,
+        "real": false
+    },
+    {
+        "local": "Belgium",
+        "visitante": "Iran",
+        "goles_local": 3,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "Uruguay",
+        "visitante": "Cape Verde Islands",
+        "goles_local": 2,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "New Zealand",
+        "visitante": "Egypt",
+        "goles_local": 1,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": "Argentina",
+        "visitante": "Austria",
+        "goles_local": 1,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": "France",
+        "visitante": "Iraq",
+        "goles_local": 4,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "Norway",
+        "visitante": "Senegal",
+        "goles_local": 0,
+        "goles_visitante": 3,
+        "real": false
+    },
+    {
+        "local": "Jordan",
+        "visitante": "Algeria",
+        "goles_local": 1,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": "Portugal",
+        "visitante": "Uzbekistan",
+        "goles_local": 3,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "England",
+        "visitante": "Ghana",
+        "goles_local": 2,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "Panama",
+        "visitante": "Croatia",
+        "goles_local": 2,
+        "goles_visitante": 3,
+        "real": false
+    },
+    {
+        "local": "Colombia",
+        "visitante": "Congo DR",
+        "goles_local": 3,
+        "goles_visitante": 0,
+        "real": false
+    },
+    {
+        "local": "Switzerland",
+        "visitante": "Canada",
+        "goles_local": 1,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": "Bosnia-Herzegovina",
+        "visitante": "Qatar",
+        "goles_local": 2,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "Morocco",
+        "visitante": "Haiti",
+        "goles_local": 3,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "Scotland",
+        "visitante": "Brazil",
+        "goles_local": 1,
+        "goles_visitante": 4,
+        "real": false
+    },
+    {
+        "local": "Czechia",
+        "visitante": "Mexico",
+        "goles_local": 1,
+        "goles_visitante": 3,
+        "real": false
+    },
+    {
+        "local": "South Africa",
+        "visitante": "South Korea",
+        "goles_local": 2,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "Ecuador",
+        "visitante": "Germany",
+        "goles_local": 2,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "Curaçao",
+        "visitante": "Ivory Coast",
+        "goles_local": 0,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "Tunisia",
+        "visitante": "Netherlands",
+        "goles_local": 0,
+        "goles_visitante": 4,
+        "real": false
+    },
+    {
+        "local": "Japan",
+        "visitante": "Sweden",
+        "goles_local": 3,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "Turkey",
+        "visitante": "United States",
+        "goles_local": 1,
+        "goles_visitante": 0,
+        "real": false
+    },
+    {
+        "local": "Paraguay",
+        "visitante": "Australia",
+        "goles_local": 1,
+        "goles_visitante": 0,
+        "real": false
+    },
+    {
+        "local": "Norway",
+        "visitante": "France",
+        "goles_local": 0,
+        "goles_visitante": 4,
+        "real": false
+    },
+    {
+        "local": "Senegal",
+        "visitante": "Iraq",
+        "goles_local": 3,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "Uruguay",
+        "visitante": "Spain",
+        "goles_local": 2,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "Cape Verde Islands",
+        "visitante": "Saudi Arabia",
+        "goles_local": 2,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": "New Zealand",
+        "visitante": "Belgium",
+        "goles_local": 1,
+        "goles_visitante": 4,
+        "real": false
+    },
+    {
+        "local": "Egypt",
+        "visitante": "Iran",
+        "goles_local": 1,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": "Panama",
+        "visitante": "England",
+        "goles_local": 1,
+        "goles_visitante": 4,
+        "real": false
+    },
+    {
+        "local": "Croatia",
+        "visitante": "Ghana",
+        "goles_local": 4,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "Colombia",
+        "visitante": "Portugal",
+        "goles_local": 1,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "Congo DR",
+        "visitante": "Uzbekistan",
+        "goles_local": 0,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": "Jordan",
+        "visitante": "Argentina",
+        "goles_local": 1,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": "Algeria",
+        "visitante": "Austria",
+        "goles_local": 0,
+        "goles_visitante": 0,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 2,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 1,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 1,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 0,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 2,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 1,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 1,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 2,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 0,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 1,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 0,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 2,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 2,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 1,
+        "goles_visitante": 0,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 1,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 1,
+        "goles_visitante": 0,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 2,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 1,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 0,
+        "goles_visitante": 0,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 2,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 0,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 0,
+        "goles_visitante": 0,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 0,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 2,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 0,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 0,
+        "goles_visitante": 0,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 0,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 0,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 1,
+        "goles_visitante": 2,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 2,
+        "goles_visitante": 1,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 0,
+        "goles_visitante": 0,
+        "real": false
+    },
+    {
+        "local": null,
+        "visitante": null,
+        "goles_local": 1,
+        "goles_visitante": 2,
+        "real": false
+    }
+]
